@@ -17,12 +17,12 @@ cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>Student Registration Form</b></font></center>
+<center><font size=4><b>College Registration Form</b></font></center>
 </td>
 </tr>
 
 <tr>
-<td>Name</td>
+<td>Full Name</td>
 <td><input type=text name=textnames id="textname" size="30"></td>
 </tr>
 
