@@ -17,7 +17,7 @@ cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>Student Registration Form</b></font></center>
+<center><font size=4><b>College Registration Form</b></font></center>
 </td>
 </tr>
 
@@ -57,6 +57,7 @@ id="personaladdress" size="30"></td>
 <option value="Goa">GOA</option>
 <option value="Patna">PATNA</option>
 <option value="Patna">BANGALORE</option>
+<option value="Kolkata">KOLKATA</option>
 </select></td>
 </tr>
 
