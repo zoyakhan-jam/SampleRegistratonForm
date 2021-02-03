@@ -1,7 +1,7 @@
 <html>
 <head>
 <script type="text/javascript" src="validate.js"></script>
-<title>Register now!</title>
+<title>Students, Register now!</title>
 </head>
 <body>
 <style>
@@ -17,7 +17,7 @@ cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>College Registration Form</b></font></center>
+<center><font size=4><b>Student Registration Form</b></font></center>
 </td>
 </tr>
 
