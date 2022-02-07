@@ -17,7 +17,7 @@ cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>Student Registration Form</b></font></center>
+<center><font size=4><b>College Registration Form</b></font></center>
 </td>
 </tr>
 
@@ -27,7 +27,7 @@ cellspacing="2">
 </tr>
 
 <tr>
-<td>Father Name</td>
+<td>Father's Name</td>
 <td><input type="text" name="fathername" id="fathername"
 size="30"></td>
 </tr>
@@ -54,7 +54,7 @@ id="personaladdress" size="30"></td>
 <option value="-1" selected>select..</option>
 <option value="New Delhi">NEW DELHI</option>
 <option value="Mumbai">MUMBAI</option>
-<option value="Goa">GOA</option>
+<option value="Ludhiana">LUDHIANA</option>
 <option value="Patna">PATNA</option>
 <option value="Patna">BANGALORE</option>
 <option value="Kolkata">KOLKATA</option>
