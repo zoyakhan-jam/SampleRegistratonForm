@@ -12,7 +12,7 @@
 
 <form action="register" method="POST" name="StudentRegistration">
 
-<table cellpadding="2" width="20%" bgcolor="#eee" align="center"
+<table cellpadding="2" width="20%" bgcolor="#abc" align="center"
 cellspacing="2">
 
 <tr>
