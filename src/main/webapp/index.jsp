@@ -1,7 +1,7 @@
 <html>
 <head>
 <script type="text/javascript" src="validate.js"></script>
-<title>Register now!</title>
+<title>Register Now!</title>
 </head>
 <body>
 <style>
@@ -110,7 +110,7 @@ id="personaladdress" size="30"></td>
 </tr>
 
 <tr>
-<td>MobileNo</td>
+<td>Mobile No</td>
 <td><input type="text" name="mobileno" id="mobileno" size="30"></td>
 </tr>
 <tr>
